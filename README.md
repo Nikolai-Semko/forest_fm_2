@@ -1,5 +1,7 @@
 # forest_fm — 3D filesystem visualizer
 
+[Watch the demo video](https://youtu.be/z95tXfgzGaE)
+
 A "forest" view of any directory tree, written in Rust with wgpu. Folders grow
 as parabolic trees in 3D using a phototropism-inspired layout; files appear as
 anti-aliased point clouds around the branches that contain them. Two
